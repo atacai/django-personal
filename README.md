@@ -1,2 +1,2 @@
-# django-personal
+# My Django
 Django Personal App
