@@ -1,7 +1,8 @@
-.form-control.is-valid {
+.form-control.is-valid, .was-validated .form-control:valid {
+	border-color: #ced4da;
 	background: #fff;
 }
 
-.form-control.is-invalid {
+.form-control.is-invalid, .was-validated .form-control:invalid {
 	background: #fff;
 }
